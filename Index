@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dr. Tomabo Jiao Jian</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #0779e4 3px solid;
+        }
+        header a {
+            color: #fff;
+            text-decoration: none;
+            text-transform: uppercase;
+            font-size: 16px;
+        }
+        header ul {
+            padding: 0;
+            list-style: none;
+        }
+        header li {
+            display: inline;
+            padding: 0 20px 0 20px;
+        }
+        .bio {
+            padding: 20px;
+            background: #fff;
+            margin-top: 20px;
+        }
+        .section-title {
+            font-size: 24px;
+            color: #333;
+            border-bottom: 2px solid #0779e4;
+            padding-bottom: 10px;
+            margin-bottom: 10px;
+        }
+        .content p {
+            margin: 10px 0;
+        }
+        .contact-info {
+            background: #333;
+            color: #fff;
+            padding: 20px;
+            margin-top: 20px;
+        }
+        .contact-info p {
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Dr. Tomabo Jiao Jian</h1>
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="bio">
+            <h2 class="section-title">Biography</h2>
+            <p>Dr. Tomabo Jiao Jian is a seasoned professional with extensive experience in financial management and analysis, leadership, and community involvement. With a PhD in Management from the University of Singapore and an MBA from the University of Northampton, he has a strong academic background to support his practical experience.</p>
+        </div>
+
+        <div class="content">
+            <h2 class="section-title">Education and Qualification</h2>
+            <p><strong>2015 – 2017:</strong> University Of Singapore, PhD in Management</p>
+            <p><strong>2015 – 2017:</strong> University Of Northampton, Master of Business Administration (MBA)</p>
+            <p><strong>2011 – 2015:</strong> Nanyang Technological University, BSc (Hons) Degree in Electronic and Electrical Engineering</p>
+        </div>
+
+        <div class="content">
+            <h2 class="section-title">Work Experience</h2>
+            <p><strong>2018 – Current:</strong> Partner at Fleur Capital (S) Pte Ltd, leading a team of 8 personnel in extensive analysis and research for mutual fund units.</p>
+            <p><strong>2014 – 2018:</strong> Assistant Director (Group Financial Planning and Analysis) at Singapore Power Limited, leading a team of 1028 personnel in financial planning and strategy.</p>
+            <p><strong>2010 – Current:</strong> Founder and CEO at Caeg Specialist Pte Ltd, leading a team of 32 personnel specializing in automobile keyless systems and access solutions.</p>
+        </div>
+
+        <div class="content">
+            <h2 class="section-title">Extra-Curricular Involvement</h2>
+            <p><strong>2023 – Current:</strong> Committee Member, Singapore China Association</p>
+            <p><strong>2010 – Current:</strong> Grassroots Leader, Bukit Timah Constituency</p>
+            <p><strong>2015 – Current:</strong> President, Asian Locksmith Association</p>
+            <p><strong>2010 – Current:</strong> Vice-Chairman, Singapore Community Sports Clubs</p>
+            <p><strong>2012 – 2017:</strong> Founder, There4icare Campaign</p>
+        </div>
+
+        <div class="content">
+            <h2 class="section-title">Achievements</h2>
+            <ul>
+                <li>2015 - Awarded with Singapore Youth Leadership Award</li>
+                <li>2014 – Leading Singlock Marketing Pte Ltd to be awarded as SINGAPORE PRESTIGE BRAND Award</li>
+                <li>2016 - Leading Sixty-Six Switchgears Co Pte Ltd to be awarded as Singapore Bizsafe Star</li>
+                <li>2010 – Expanding Singlock Marketing Pte Ltd from one retail outlet to two local outlets and five overseas outlets</li>
+                <li>2010 – Conducted training courses for over 700 automobile service engineers, technicians, and locksmiths worldwide</li>
+                <li>2015 - Leading Singlock Marketing Pte Ltd to be awarded with Top Young Enterprise Award</li>
+                <li>2015 - Leading Sixty-Six Switchgears Co Pte Ltd to be awarded as Best Performing SME</li>
+                <li>2017 - Leading Sixty-Six Switchgears Co Pte Ltd to be awarded as Top 100 SME Singapore</li>
+                <li>2018 - Leading Sixty-Six Switchgears Co Pte Ltd to be awarded various ISO certifications and multiple enterprise awards</li>
+                <li>2019 - Winner of Singapore 2018 Workplace Safety and Health Council Bizsafe Champion Personal Award (WSH)</li>
+            </ul>
+        </div>
+
+        <div class="contact-info">
+            <h2>Contact Information</h2>
+            <p>Tel: +65 86999866</p>
+            <p>Email: <a href="mailto:enquiry@caegspecialist.com" style="color: #fff;">enquiry@caegspecialist.com</a></p>
+        </div>
+    </div>
+</body>
+</html>
